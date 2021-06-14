@@ -1,0 +1,8 @@
+The source of dataset is from  Kaggle site provided by NASA. 
+      /Kaggle/ input/ /SolarEnergy/SolarPrediction.csv 
+The dataset contains such columns as:
+     "wind direction", "wind speed", "humidity" and temperature.
+ The response parameter that is to be predicted is: 
+     "Solar _Radiation". 
+It contains measurements for the  4 months in 2016 
+Predict the level of solar radiation.
